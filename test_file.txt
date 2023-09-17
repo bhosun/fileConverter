@@ -1,0 +1,6 @@
+dog
+cat
+lamb
+sheep
+lion
+ram
